@@ -28,7 +28,8 @@ flutter pub get
 flutter run
 ```
 
-### Screens
+## Screens
+
 ![Beaker](https://iili.io/o9AAzuI.png)
 ![Graduated Cylinder](https://iili.io/o9AAoyN.png)
 ![Conical Flask](https://iili.io/o9AAnvp.png)
