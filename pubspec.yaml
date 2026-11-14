@@ -1,0 +1,16 @@
+name: vessel
+description: A simple Flutter app that introduces basic laboratory glassware.
+publish_to: 'none'
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.0.0
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/images/
